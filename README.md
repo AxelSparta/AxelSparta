@@ -1,7 +1,18 @@
 <h1 align="center">Hola soy Axel Sparta</h1>
 <h3 align="center">Estudiante de ingeniería en sistemas y programador web</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas que utilizo:</h3>
+<!--
+<h4 align="center">
+  Front-end
+</h4>
+<h4 align="center">
+  Back-end
+</h4>
+<h4 align="center">
+  Bases de datos
+</h4>
+-->
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
