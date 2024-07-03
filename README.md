@@ -3,7 +3,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Python],
+   code: ["Javascript", "Typescript", "HTML", "CSS", "Python"],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -11,7 +11,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
-        python: ["FastAPI"]
+         python: ["FastAPI"]
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"]
    },
