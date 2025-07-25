@@ -3,15 +3,14 @@
 
 ```javascript
 const aboutMe = {
-   code: ["Javascript", "Typescript", "HTML", "CSS", "Python"],
+   code: ["Javascript", "Typescript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
          js: ["React", "Next.js"],
          css: ["Tailwind", "Bootstrap", "Sadcn", "Material UI"]
       },
       backEnd: {
-         js: ["Node", "Express"],
-         python: ["FastAPI"]
+         js: ["Node", "Express"]
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"]
    },
